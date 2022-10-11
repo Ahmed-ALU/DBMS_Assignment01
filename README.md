@@ -1,5 +1,5 @@
 # DBMS_Assignment01
-This repository contains the codes and the designs for the second assignment for the course "Database Systems" in my year two at The African Leadership University n Rwanda. The assignment was individual work.
+This repository contains the codes and the designs for the first assignment for the course "Database Systems" in my year two at The African Leadership University n Rwanda. The assignment was individual work.
 
 
 ### Assignment Prompt:
